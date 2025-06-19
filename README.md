@@ -1,6 +1,14 @@
 # ScanX
 **🛡ScanX** is a Ultimate vulnerability scanner & penetration testing automation tool written in Bash. It performs a sequential, modular security scan against a given target using only native or widely available Linux tools. Ideal for reconnaissance, vulnerability enumeration, and quick web assessments.
 
+## 🚀 Why Choose ScanX 
+“From recon to report – ScanX does it all in one shot.”
+“Lightweight. Powerful.”
+“One command. Full visibility.”
+“Scan smarter, not harder.”
+
+**Why recon manually when you can ScanX and chill?**
+
 ## 🚀 Features
 🔍 Host availability check
 
