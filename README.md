@@ -68,3 +68,8 @@ To run the tool
 ```bash
 ./scanX.sh
 ```
+Example of providing Target
+```bash
+Target : sample.com
+```
+IP address also acceptable.
