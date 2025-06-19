@@ -51,9 +51,9 @@ Go to the directory
 ```
 To make it executable
 ```bash
-chmod +x scanx.sh
+chmod +x scanX.sh
 ```
 To run the tool
 ```bash
-./scanx.sh
+./scanX.sh
 ```
