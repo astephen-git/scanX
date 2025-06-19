@@ -1,7 +1,7 @@
 # ScanX
-🛡ScanX is a Ultimate vulnerability scanner & penetration testing automation tool written in Bash. It performs a sequential, modular security scan against a given target using only native or widely available Linux tools. Ideal for reconnaissance, vulnerability enumeration, and quick web assessments.
+**🛡ScanX** is a Ultimate vulnerability scanner & penetration testing automation tool written in Bash. It performs a sequential, modular security scan against a given target using only native or widely available Linux tools. Ideal for reconnaissance, vulnerability enumeration, and quick web assessments.
 
-🚀 Features
+##🚀 Features
 🔍 Host availability check
 
 🌐 Sub-domain enumeration
@@ -32,17 +32,28 @@
 
 📂 Local File Inclusion (LFI) test
 
-📄 Beautiful colored output with optional report saving
-
-🛠 Requirements
+##🛠 Requirements
 ScanX is designed to work without heavy dependencies. It checks and uses only lightweight, essential tools that are usually available in Kali Linux by default or via APT.
 
-To install all dependencies:
-sudo apt update && sudo apt install -y curl nmap nikto ffuf whatweb dig sslscan host
+##To install all dependencies:
+```bash
+  sudo apt update && sudo apt install -y curl nmap nikto ffuf whatweb dig sslscan host
+```
+##📦 Installation
 
-📦 Installation
-
-git clone https://github.com/yourusername/ScanX.git
-cd ScanX
+Clone it
+```bash
+  git clone https://github.com/yourusername/ScanX.git
+```
+Go to the directory
+```bash
+  cd ScanX
+```
+To make it executable
+```bash
 chmod +x scanx.sh
+```
+To run the tool
+```bash
 ./scanx.sh
+```
