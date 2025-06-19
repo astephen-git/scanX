@@ -3,8 +3,11 @@
 
 ## 🚀 Why Choose ScanX 
 “From recon to report – ScanX does it all in one shot.”
+
 “Lightweight. Powerful.”
+
 “One command. Full visibility.”
+
 “Scan smarter, not harder.”
 
 **Why recon manually when you can ScanX and chill?**
