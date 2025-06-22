@@ -58,7 +58,7 @@ Clone it
 ```
 Go to the directory
 ```bash
-  cd ScanX
+  cd scanX
 ```
 To make it executable
 ```bash
