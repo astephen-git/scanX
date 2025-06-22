@@ -54,7 +54,7 @@ ScanX is designed to work without heavy dependencies. It checks and uses only li
 
 Clone it
 ```bash
-  git clone https://github.com/yourusername/ScanX.git
+  https://github.com/astephen-git/scanX.git
 ```
 Go to the directory
 ```bash
